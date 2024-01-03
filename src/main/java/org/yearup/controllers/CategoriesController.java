@@ -117,7 +117,7 @@ public class CategoriesController {
     {
         try
         {
-          //  var category = categoryDao.getById(id);
+      //  var category = categoryDao.getById(id);
 
            // if(category == null)
               //  throw new ResponseStatusException(HttpStatus.NOT_FOUND);
