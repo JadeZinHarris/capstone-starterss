@@ -8,6 +8,17 @@
 This Easy Shop project is a Java application designed to streamline the shopping process for an
 online shop.
 
+------------------------------
+
+
+###  𝕋𝕠𝕠𝕝𝕤 𝕌𝕤𝕖𝕕
+
+- Java
+- Maven
+- Springboot
+- Postman
+- MySql
+  
 
 ------------------------------
 ### ℙ𝕠𝕤𝕥𝕞𝕒𝕟 𝕔𝕙𝕖𝕔𝕜𝕤
