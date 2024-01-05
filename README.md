@@ -17,7 +17,7 @@ online shop.
 
 
 ------------------------------
-### 𝕊𝕠𝕞𝕖 ℂ𝕠𝕕𝕖
+### 𝔹𝕦𝕘𝕤 𝔽𝕚𝕩𝕖𝕕
 
 ![image](https://github.com/JadeZinHarris/capstone-starterss/assets/107131999/308e380b-20e9-45c8-b177-496a4490deb4)
 
